@@ -82,7 +82,7 @@ export default function App() {
 - in App.js
 - Context API
 - 3rd Party State Management Library
-- Redux, Redux-Toolkit,.......
+    -> Redux, Redux-Toolkit,.......
 
 
 #### Context API
